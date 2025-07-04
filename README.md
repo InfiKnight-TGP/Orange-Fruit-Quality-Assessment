@@ -149,7 +149,7 @@ Orange Fruit Quality Assesment/
 
 - [Fresh/Rotten Orange Classifier Dataset (Roboflow)](https://universe.roboflow.com/neha-chandekar-yxsnl/fresh-rotten-orange-classifier/)
 - [YouTube: Candy Detection Demo](https://www.youtube.com/watch?v=r0RspiLG260)
-- [Train YOLO Models - EJTech Guide](https://www.ejtech.io/learn/train-yolo-models)
+- [Train YOLO Models Locally - EJTech Guide](https://www.ejtech.io/learn/train-yolo-models)
 - [Ultralytics YOLO Docs](https://docs.ultralytics.com/)
 - [LabelImg](https://github.com/tzutalin/labelImg)
 - [Label Studio](https://labelstud.io/)
