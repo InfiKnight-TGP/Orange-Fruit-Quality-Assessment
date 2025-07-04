@@ -1,0 +1,6 @@
+path: D:\Orange Fruit Quality Assesment\yolo\data
+train: train/images
+val: validation/images
+
+nc: 2
+names: ["Fresh Oranges", "Rotten Oranges"]
