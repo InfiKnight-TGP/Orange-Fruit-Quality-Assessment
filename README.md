@@ -102,7 +102,7 @@ names: ["Fresh Oranges", "Rotten Oranges"]
 ## 6. 🏋️ Train the Model
 
 ```bash
-yolo detect train data=data.yaml model=yolo11s.pt epochs=40 imgsz=440
+yolo detect train data=data.yaml model=yolo11s.pt epochs=40 imgsz=480
 ```
 
 - Model options:  
