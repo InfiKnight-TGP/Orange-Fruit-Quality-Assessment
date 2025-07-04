@@ -1,4 +1,4 @@
-# 🍊 Orange Fruit Quality Assessment (YOLOv8)
+# 🍊 Orange Fruit Quality Assessment (YOLOv11)
 
 This project detects and classifies orange fruit quality using YOLOv8 and a custom dataset.
 
