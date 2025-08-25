@@ -145,12 +145,12 @@ Orange Fruit Quality Assesment/
 
 ---
 
-## Contributors ✨
+## 👨‍👩‍👦 Team Members
 
-Thanks go to these awesome contributors:  
-<a href="https://github.com/InfiKnight-TGP/Orange-Fruit-Quality-Assessment/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=InfiKnight-TGP/Orange-Fruit-Quality-Assessment" />
-</a>
+- [Dinesh Raj N](https://github.com/InfiKnight-TGP)
+- [Ritesh S](https://github.com/riit3sh)
+- [Sanjith M](https://github.com/Sanjith0524)
+
 
 ---
 
