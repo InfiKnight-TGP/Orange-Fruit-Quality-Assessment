@@ -149,15 +149,15 @@ Orange Fruit Quality Assesment/
 
 <p>
   <a href="https://github.com/InfiKnight-TGP">
-    <img src="https://avatars.githubusercontent.com/InfiKnight-TGP" width="100px" style="border-radius: 50%;" alt="InfiKnight-TGP"/>
+    <img src="https://avatars.githubusercontent.com/InfiKnight-TGP" width="100px" height="100px" style="border-radius: 50%; object-fit: cover;" alt="InfiKnight-TGP"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Sanjith0524">
-    <img src="https://avatars.githubusercontent.com/Sanjith0524" width="100px" style="border-radius: 50%;" alt="Sanjith"/>
+    <img src="https://avatars.githubusercontent.com/Sanjith0524" width="100px" height="100px" style="border-radius: 50%; object-fit: cover;" alt="Sanjith"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/riit3sh">
-    <img src="https://avatars.githubusercontent.com/riit3sh" width="100px" style="border-radius: 50%;" alt="riit3sh"/>
+    <img src="https://avatars.githubusercontent.com/riit3sh" width="100px" height="100px" style="border-radius: 50%; object-fit: cover;" alt="riit3sh"/>
   </a>
 </p>
 
